@@ -37,7 +37,7 @@ We created dynamic visualizations that display trends such as:
 6. Dashboard Creation
 --The final dashboard consolidates all key visuals for an at-a-glance view of performance. Row-Level Security (RLS) was implemented to ensure data confidentiality, restricting access based on user roles.
 
-#Key Insights for Growth
+Key Insights for Growth
 This analysis provides actionable insights to support the airline’s growth strategy:
 
 ---Identify "Best" flights and replicate their operational models across the network.
